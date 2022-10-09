@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @torbenziegler
 - 👀 I’m interested in native mobile development and bringing machine learning components to your mobile apps
-- 🌱 I’m currently learning Ktor and KMM
+- 🌱 I’m currently learning [Ktor](https://ktor.io/) and [KMM](https://kotlinlang.org/lp/mobile/)
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/torben-ziegler-8a5122201/)
 
 <!---
